@@ -16,25 +16,20 @@
     <Filter Include="Chapter_12">
       <UniqueIdentifier>{e6c8ea7a-e103-4ced-a3fc-cb5012107bdb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Chapter_6">
+      <UniqueIdentifier>{9ddc53d5-b542-4945-aa83-749a989cb3c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chapter_7">
+      <UniqueIdentifier>{4520fa65-a910-407d-a5da-58cd2b25a243}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chapter_13">
+      <UniqueIdentifier>{7fb6d3ce-4559-48fe-8e7e-529f1643ad45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chapter_15">
+      <UniqueIdentifier>{441704d2-b014-4be7-bd3e-bd49bd8fa4c5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="stdafx.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="targetver.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="12_6.cpp">
       <Filter>Chapter_12</Filter>
     </ClCompile>
@@ -44,5 +39,61 @@
     <ClCompile Include="12_23.cpp">
       <Filter>Chapter_12</Filter>
     </ClCompile>
+    <ClCompile Include="6_56.cpp">
+      <Filter>Chapter_6</Filter>
+    </ClCompile>
+    <ClCompile Include="Sales_data.cpp">
+      <Filter>Chapter_7</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>Chapter_7</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Chapter_7</Filter>
+    </ClCompile>
+    <ClCompile Include="Windows_mgr.cpp">
+      <Filter>Chapter_7</Filter>
+    </ClCompile>
+    <ClCompile Include="13_13.cpp">
+      <Filter>Chapter_13</Filter>
+    </ClCompile>
+    <ClCompile Include="13_14.cpp">
+      <Filter>Chapter_13</Filter>
+    </ClCompile>
+    <ClCompile Include="13_18.cpp">
+      <Filter>Chapter_13</Filter>
+    </ClCompile>
+    <ClCompile Include="13_22.cpp">
+      <Filter>Chapter_13</Filter>
+    </ClCompile>
+    <ClCompile Include="12_27.cpp">
+      <Filter>Chapter_13</Filter>
+    </ClCompile>
+    <ClCompile Include="13_28.cpp">
+      <Filter>Chapter_13</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Chapter_7</Filter>
+    </ClCompile>
+    <ClCompile Include="15_3.cpp">
+      <Filter>Chapter_15</Filter>
+    </ClCompile>
+    <ClCompile Include="15_15.cpp">
+      <Filter>Chapter_15</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sales_data.h">
+      <Filter>Chapter_7</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>Chapter_7</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>Chapter_7</Filter>
+    </ClInclude>
+    <ClInclude Include="Windows_mgr.h">
+      <Filter>Chapter_7</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
